@@ -54,8 +54,8 @@ By the end of the course, students will be able to:
 Email: [tesfayphysics@gmail.com](mailto:tesfayphysics@gmail.com)  
 Mobile: 301-9961201
 ## Company
-** Company Contacts**:
-Email: [contact@mellatechllc.com](mailto: contact@mellatechllc.com)
+**Company Contacts**:
+Email: [contact@mellatechllc.com](mailto:contact@mellatechllc.com)
 Phone: +1 305 332 4364
 
 ## Participation & Flexibility
