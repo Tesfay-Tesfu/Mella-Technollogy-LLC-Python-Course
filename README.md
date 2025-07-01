@@ -55,8 +55,8 @@ Email: [tesfayphysics@gmail.com](mailto:tesfayphysics@gmail.com)
 Mobile: 301-9961201
 ## Company
 **Company Contacts**:
-Email: [contact@mellatechllc.com](mailto:contact@mellatechllc.com)
-Phone: 305 332 4364
+- Email: [contact@mellatechllc.com](mailto:contact@mellatechllc.com)
+- Phone: 305 332 4364
 
 ## Participation & Flexibility
 - Engage with content at your own pace.  
