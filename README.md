@@ -50,10 +50,11 @@ By the end of the course, students will be able to:
   - 
 
 ## Instructor
-**Tesfu**  
+**Tesfu**:  
 Email: [tesfayphysics@gmail.com](mailto:tesfayphysics@gmail.com)  
 Mobile: 301-9961201
-** Company Contacts**
+## Company
+** Company Contacts**:
 Email: [contact@mellatechllc.com](mailto: contact@mellatechllc.com)
 Phone: +1 305 332 4364
 
