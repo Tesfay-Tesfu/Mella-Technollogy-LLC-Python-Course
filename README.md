@@ -46,7 +46,7 @@ By the end of the course, students will be able to:
   - [Kaggle](https://www.kaggle.com/) for datasets and competitions.
   - (🔗 [Google Colab](https://colab.research.google.com/drive/your-notebook-id-here)  )
   - (🔗 [jupyter notebook]( https://jupyter.org/try-jupyter/lab/)  )
-  - [Here Is The Course Syllabus](https://github.com/Tesfay-Tesfu/Mella-Technollogy-LLC-Python-Course/blob/main/Mella_Python_Data_Analysis_Syllabus.pdf)
+  - [Here Is The Mella Tecnology LLC Course Syllabus](https://github.com/Tesfay-Tesfu/Mella-Technollogy-LLC-Python-Course/blob/main/Mella_Python_Data_Analysis_Syllabus.pdf)
   - 
 
 ## Instructor
