@@ -43,7 +43,11 @@ By the end of the course, students will be able to:
 - **Online**:
   - [Tesfay-Github] (https://github.com/Tesfay-Tesfu)
   - [Pandas Documentation](https://pandas.pydata.org/)  
-  - [Kaggle](https://www.kaggle.com/) for datasets and competitions.  
+  - [Kaggle](https://www.kaggle.com/) for datasets and competitions.
+  - (🔗 [Google Colab](https://colab.research.google.com/drive/your-notebook-id-here)  )
+  - (🔗 [jupyter notebook]( https://jupyter.org/try-jupyter/lab/)  )
+  - [Here Is The Course Syllabus](https://github.com/Tesfay-Tesfu/Mella-Technollogy-LLC-Python-Course/blob/main/Mella_Python_Data_Analysis_Syllabus.pdf)
+  - 
 
 ## Instructor
 **Tesfu**  
