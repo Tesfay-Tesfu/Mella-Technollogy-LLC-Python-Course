@@ -56,7 +56,7 @@ Mobile: 301-9961201
 ## Company
 **Company Contacts**:
 Email: [contact@mellatechllc.com](mailto:contact@mellatechllc.com)
-Phone: +1 305 332 4364
+Phone: 305 332 4364
 
 ## Participation & Flexibility
 - Engage with content at your own pace.  
