@@ -1,0 +1,4 @@
+conda create --name Mella python=3.10
+conda activate Mella
+pip install ipykernel
+python -m ipykernel install --user --name=Mella --display-name "Python (Mella)"
